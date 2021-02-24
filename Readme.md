@@ -12,8 +12,8 @@
 
 <div align="center">
   <sub>The NLW #4 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/move.it/graphs/contributors">
+    <a href="https://github.com/sucodev">Marcos Del Valle</a> and
+    <a href="https://github.com/sucodev/Move.it/graphs/contributors">
       contributors
     </a>
   </sub>
@@ -36,10 +36,6 @@
     </a>
 </p>
 
-<div>
-   <img src="./.github/screenshot-1.png" width="400px">
-   <img src="./.github/screenshot-2.png" width="400px">
-</div>
 
 # :eyes: Demo Website
 The demo website can be missing some features, clone and run the project to a full experience. <br>
@@ -61,7 +57,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/move.it.git
+$ git clone https://github.com/sucodev/Move.it.git
 ```
 
 ### 💻 Run Web Project
@@ -78,14 +74,14 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/RafaelGoulartB/move.it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/sucodev/Move.it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
 
-* Check the [issues page](https://github.com/RafaelGoulartB/move.it/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Check the [issues page](https://github.com/sucodev/Move.it/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
 * Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
@@ -94,7 +90,7 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2020 :closed_book: License
 
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
+Made with love by [Marcos Del Valle](https://github.com/sucodev) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
